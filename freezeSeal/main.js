@@ -13,7 +13,7 @@ const user = {
         lastLogin:'2024-07-04',
         isAccountActive: true
     }
-    
+     
 };
 //Object freeze user id
 Object.freeze(user);
